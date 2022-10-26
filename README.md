@@ -1,3 +1,7 @@
 # Fork-DAO
 
-- [Achievements](https://fork-dao.github.io/ACHIEVEMENTS-es.md)
+## Achievements
+1.
+2.
+3.
+
